@@ -85,9 +85,10 @@ npm install -g json-server
 }
 
 # 3. Inicie o servidor
+```bash
 json-server --watch db.json --port 3000
+```
 
-👨‍🏫 Projeto Acadêmico
+👨‍🏫 **Projeto Acadêmico**
 
-Este projeto faz parte do curso de Sistemas de Informação da Faculdade UNIESP, sob orientação do professor Kelson Almeida.
-
+Este projeto faz parte do curso de Sistemas de Informação da Faculdade UNIESP.
