@@ -22,7 +22,7 @@ Este projeto simula a interface de um site institucional da Faculdade UNIESP, ut
 src/
 ├── components/
 │   ├── CustomNavbar.jsx         # Barra de navegação responsiva
-│   └── Bannerad.jsx             # (Em construção)
+│   └── Bannerad.jsx             
 ├── pages/
 │   ├── Inicial.jsx              # Página inicial
 │   ├── Faculdade.jsx            # Página "A Faculdade"
