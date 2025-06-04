@@ -17,19 +17,21 @@ Este projeto simula a interface de um site institucional da Faculdade UNIESP, ut
 ---
 
 ## 📁 Estrutura do Projeto
+
+```
 src/
 ├── components/
 │   ├── CustomNavbar.jsx         # Barra de navegação responsiva
 │   └── Bannerad.jsx             # (Em construção)
 ├── pages/
 │   ├── Inicial.jsx              # Página inicial
-│   ├── Faculdade.jsx            # Página “A Faculdade”
-│   ├── DpoLgpd.jsx              # Página “DPO LGPD”
+│   ├── Faculdade.jsx            # Página "A Faculdade"
+│   ├── DpoLgpd.jsx              # Página "DPO LGPD"
 │   ├── Noticias.jsx             # Listagem de notícias (requisição à API)
 │   └── VisualizaNoticia.jsx     # Visualização de notícia (rota dinâmica)
 ├── App.jsx                      # Componente principal com rotas
 └── main.jsx                     # Ponto de entrada da aplicação
----
+```
 
 ## 📌 Funcionalidades Implementadas
 
